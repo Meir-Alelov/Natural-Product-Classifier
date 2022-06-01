@@ -1,1 +1,604 @@
 Role	Name	Type
+15022	electron donor	chemical role
+17499	hydrogen donor	chemical role
+22153	acaricide	application
+22180	EC 2.2.1.6 (acetolactate synthase) inhibitor	biological role
+22333	alkylating agent	biological role
+22583	antifeedant	application
+22586	antioxidant	chemical role
+22587	antiviral agent	biological role
+22676	auxin	biological role
+23240	chromophore	chemical role
+23354	coenzyme	biological role
+23357	cofactor	biological role
+23530	cytokinin	biological role
+23582	defoliant	application
+23924	enzyme inhibitor	biological role
+24127	fungicide	application
+24527	herbicide	application
+24850	insect attractant	biological role
+24852	insecticide	application
+24853	intercalator	biological role
+24869	ionophore	biological role
+24937	jasmonates	biological role
+25078	luciferin	biological role
+25212	metabolite	biological role
+25355	mitochondrial respiratory-chain inhibitor	biological role
+25435	mutagen	biological role
+25442	mycotoxin	biological role
+25512	neurotransmitter	biological role
+25540	neonicotinoid insectide	biological role
+25728	osmolyte	biological role
+25943	pesticide synergist	application
+26013	pheromone	biological role
+26115	phytoalexin	biological role
+26130	biological pigment	biological role
+26155	plant growth regulator	biological role
+26157	plant growth stimulator	biological role
+26348	prosthetic group	biological role
+26645	semiochemical	biological role
+26672	siderophore	biological role
+26841	synthetic auxin	biological role
+27026	toxin	biological role
+27027	micronutrient	biological role
+27311	volatile oil component	biological role
+27780	detergent	application
+33231	antitubercular agent	biological role
+33281	antimicrobial agent	biological role
+33282	antibacterial agent	biological role
+33284	nutrient	biological role
+33286	agrochemical	application
+33287	fertilizer	application
+33288	rodenticide	application
+33289	avicide	application
+33295	diagnostic agent	application
+33893	reagent	application
+33937	macronutrient	biological role
+35195	surfactant	chemical role
+35206	isotopic tracer	application
+35210	spin label	application
+35211	radioactive label	application
+35219	plant growth retardant	biological role
+35221	antimetabolite	biological role
+35222	inhibitor	biological role
+35223	catalyst	chemical role
+35225	buffer	chemical role
+35232	radiopharmaceutical	application
+35337	central nervous system stimulant	application
+35441	antiinfective agent	application
+35442	antiparasitic agent	application
+35443	anthelminthic drug	application
+35444	antinematodal drug	application
+35457	EC 3.4.15.1 (peptidyl-dipeptidase A) inhibitor	application
+35469	antidepressant	application
+35470	central nervous system drug	application
+35472	anti-inflammatory drug	application
+35474	anxiolytic drug	application
+35475	non-steroidal anti-inflammatory drug	application
+35476	antipsychotic agent	application
+35477	antimanic drug	application
+35480	analgesic	biological role
+35481	non-narcotic analgesic	biological role
+35482	opioid analgesic	biological role
+35487	EC 1.2.1.3 [aldehyde dehydrogenase (NAD+)] inhibitor	biological role
+35497	androgen antagonist	biological role
+35498	diuretic	application
+35499	hallucinogen	application
+35522	&#946;-adrenergic agonist	biological role
+35523	bronchodilator agent	application
+35526	hypoglycemic agent	application
+35530	&#946;-adrenergic antagonist	biological role
+35544	EC 1.14.99.1 (prostaglandin-endoperoxide synthase) inhibitor	biological role
+35554	cardiovascular drug	application
+35569	&#945;-adrenergic agonist	biological role
+35608	EC 3.1.3.48 (protein-tyrosine-phosphatase) inhibitor	biological role
+35610	antineoplastic agent	application
+35617	flavouring agent	application
+35620	vasodilator agent	application
+35623	anticonvulsant	application
+35625	EC 3.5.2.6 (&#946;-lactamase) inhibitor	biological role
+35634	EC 1.17.3.2 (xanthine oxidase) inhibitor	biological role
+35660	HIV protease inhibitor	biological role
+35664	EC 1.1.1.34/EC 1.1.1.88 (hydroxymethylglutaryl-CoA reductase) inhibitor	biological role
+35674	antihypertensive agent	application
+35678	histamine agonist	biological role
+35679	antilipemic drug	application
+35703	xenobiotic	biological role
+35705	immunosuppressive agent	biological role
+35717	sedative	application
+35718	antifungal agent	biological role
+35818	coccidiostat	biological role
+35820	antiprotozoal drug	biological role
+35821	anticholesteremic drug	application
+35841	uricosuric drug	application
+35941	serotonergic agonist	biological role
+35942	neurotransmitter agent	biological role
+36044	antiviral drug	biological role
+36047	antibacterial drug	biological role
+36051	antisyphilitic drug	biological role
+36063	oxytocic	application
+36333	local anaesthetic	application
+36335	trypanocidal drug	biological role
+36413	anabolic agent	biological role
+37153	EC 3.1.3.16 (phosphoprotein phosphatase) inhibitor	biological role
+37336	radioactive imaging agent	application
+37338	radioopaque medium	application
+37416	EC 2.7.7.6 (RNA polymerase) inhibitor	biological role
+37670	protease inhibitor	biological role
+37699	protein kinase inhibitor	biological role
+37700	EC 2.7.11.13 (protein kinase C) inhibitor	biological role
+37733	EC 3.1.1.8 (cholinesterase) inhibitor	biological role
+37848	plant hormone	biological role
+37890	&#945;-adrenergic antagonist	biological role
+37930	phenothiazine antipsychotic drug	application
+37955	H1-receptor antagonist	biological role
+37956	histamine antagonist	biological role
+37958	dye	application
+37961	H2-receptor antagonist	biological role
+37962	adrenergic agent	biological role
+38068	antimalarial	biological role
+38070	anti-arrhythmia drug	application
+38147	cardiotonic drug	application
+38155	phytosiderophore	chemical role
+38157	iron chelator	chemical role
+38161	chelator	chemical role
+38215	calcium channel blocker	biological role
+38231	phytotoxin	biological role
+38317	EC 1.13.11.27 (4-hydroxyphenylpyruvate dioxygenase) inhibitor	biological role
+38324	cholinergic agonist	biological role
+38325	muscarinic agonist	biological role
+38462	EC 3.1.1.7 (acetylcholinesterase) inhibitor	biological role
+38498	mitochondrial NADH:ubiquinone reductase inhibitor	biological role
+38499	mitochondrial cytochrome-bc1 complex inhibitor	biological role
+38500	EC 1.9.3.1 (cytochrome c oxidase) inhibitor	biological role
+38623	EC 1.4.3.4 (monoamine oxidase) inhibitor	biological role
+38632	membrane transport modulator	biological role
+38633	sodium channel blocker	biological role
+38634	voltage-gated sodium channel blocker	biological role
+38637	tyrosine kinase inhibitor	biological role
+38706	pediculicide	application
+38807	calcium channel agonist	biological role
+38809	ryanodine receptor modulator	biological role
+38828	nonionic surfactant	chemical role
+38849	blood substitute	application
+38867	anaesthetic	application
+38869	general anaesthetic	application
+38870	inhalation anaesthetic	application
+38877	intravenous anaesthetic	application
+38941	schistosomicide drug	application
+39000	sodium channel modulator	biological role
+39011	Good's buffer substance	chemical role
+39116	pyrethroid ester insecticide	application
+39143	Lewis acid	chemical role
+39144	Lewis base	chemical role
+39276	fumigant	application
+39277	fumigant insecticide	application
+39351	pyrethroid ether insecticide	application
+39412	bridged diphenyl acaricide	application
+39442	fluorescent probe	application
+39456	antiglaucoma drug	application
+46787	solvent	application
+47867	indicator	application
+47868	photosensitizing agent	application
+47958	nicotinic acetylcholine receptor agonist	biological role
+48001	protein synthesis inhibitor	biological role
+48218	antiseptic drug	application
+48219	disinfectant	biological role
+48279	serotonergic antagonist	biological role
+48318	fragrance	application
+48353	serine proteinase inhibitor	biological role
+48354	polar solvent	application
+48356	protic solvent	application
+48358	polar aprotic solvent	application
+48360	amphiprotic solvent	application
+48407	antiparkinson drug	application
+48422	angiogenesis inhibitor	application
+48425	topical anaesthetic	application
+48550	EC 1.1.1.21 (aldehyde reductase) inhibitor	biological role
+48561	dopaminergic antagonist	biological role
+48578	radical scavenger	chemical role
+48668	&#947;-secretase modulator	biological role
+48705	agonist	biological role
+48706	antagonist	biological role
+48876	muscarinic antagonist	biological role
+48878	nicotinic antagonist	biological role
+48887	bile acid metabolite	biological role
+49023	prostaglandin antagonist	biological role
+49103	drug metabolite	biological role
+49110	peripheral nervous system drug	application
+49159	leukotriene antagonist	biological role
+49200	EC 3.6.3.10 (H+/K+-exchanging ATPase) inhibitor	biological role
+49201	anti-ulcer drug	application
+50113	androgen	biological role
+50114	estrogen	biological role
+50176	keratolytic drug	application
+50177	dermatologic drug	application
+50183	P450 inhibitor	biological role
+50185	fatty acid synthesis inhibitor	biological role
+50218	EC 3.1.4.* (phosphoric diester hydrolase) inhibitor	biological role
+50248	hematologic agent	application
+50249	anticoagulant	application
+50266	prodrug	application
+50267	protective agent	application
+50268	GABA modulator	biological role
+50382	EC 2.4.1.80 (ceramide glucosyltransferase) inhibitor	biological role
+50406	probe	application
+50407	acid-base indicator	application
+50427	platelet aggregation inhibitor	application
+50433	platelet glycoprotein-IIb/IIIa receptor antagonist	biological role
+50445	EC 3.5.4.4 (adenosine deaminase) inhibitor	biological role
+50469	EC 3.1.1.4 (phospholipase A2) inhibitor	biological role
+50503	laxative	application
+50505	sweetening agent	application
+50507	appetite depressant	application
+50509	potassium channel blocker	biological role
+50514	vasoconstrictor agent	application
+50566	nitric oxide donor	chemical role
+50627	EC 3.2.1.1 (&#945;-amylase) inhibitor	biological role
+50629	cyclooxygenase 2 inhibitor	biological role
+50630	cyclooxygenase 1 inhibitor	biological role
+50646	bone density conservation agent	application
+50664	matrix metalloproteinase inhibitor	biological role
+50671	antithyroid drug	biological role
+50683	EC 1.5.1.3 (dihydrofolate reductase) inhibitor	biological role
+50684	cross-linking reagent	application
+50733	nutraceutical	application
+50741	retinoic acid receptor &#945;/&#946; agonist	biological role
+50748	antipsoriatic	application
+50750	EC 5.99.1.3 [DNA topoisomerase (ATP-hydrolysing)] inhibitor	biological role
+50751	anti-estrogen	application
+50827	antiparathyroid drug	biological role
+50846	immunomodulator	biological role
+50847	immunological adjuvant	biological role
+50857	anti-allergic agent	application
+50902	genotoxin	biological role
+50903	carcinogenic agent	biological role
+50904	allergen	biological role
+50905	teratogenic agent	biological role
+50908	hepatotoxic agent	biological role
+50909	nephrotoxic agent	biological role
+50910	neurotoxin	biological role
+50912	cardiotoxic agent	biological role
+50914	EC 2.7.1.137 (phosphatidylinositol 3-kinase) inhibitor	biological role
+50919	antiemetic	application
+50925	EC 2.7.11.1 (non-specific serine/threonine protein kinase) inhibitor	biological role
+51039	dopamine uptake inhibitor	biological role
+51065	dopamine agonist	biological role
+51121	fluorescent dye	application
+51177	antitussive	application
+51217	fluorochrome	application
+51237	Grignard reagent	application
+51371	muscle relaxant	application
+51372	neuromuscular agent	application
+51373	GABA agonist	biological role
+51577	partial prostacyclin agonist	application
+52214	ligand	chemical role
+52217	pharmaceutical	application
+52290	mitogen	biological role
+52629	EC 3.1.26.13 (retroviral ribonuclease H) inhibitor	biological role
+52726	proteasome inhibitor	application
+53000	epitope	biological role
+53121	adenosine A2A receptor antagonist	biological role
+53756	HIV-1 reverse transcriptase inhibitor	biological role
+53784	antispasmodic drug	application
+55323	antidiarrhoeal drug	application
+55324	gastrointestinal drug	application
+59010	antiseborrheic	application
+59107	EC 3.4.24.* (metalloendopeptidase) inhibitor	biological role
+59132	antigen	biological role
+59163	biomarker	application
+59174	hapten	biological role
+59517	DNA synthesis inhibitor	biological role
+59544	phosphoantigen	biological role
+59647	EC 2.3.1.50 (serine C-palmitoyltransferase) inhibitor	biological role
+59680	vasopressin receptor antagonist	biological role
+59740	nucleophilic reagent	application
+59745	chromatographic reagent	application
+59752	bolaamphiphile	chemical role
+59826	progestin	biological role
+59886	HIV fusion inhibitor	biological role
+59941	amphiphile	chemical role
+59997	EC 1.14.18.1 (tyrosinase) inhibitor	biological role
+60218	mimotope	biological role
+60258	EC 3.4.* (hydrolases acting on peptide bond) inhibitor	biological role
+60280	EC 3.5.1.2 (glutaminase) inhibitor	biological role
+60575	phenoxy herbicide	application
+60643	NMDA receptor antagonist	biological role
+60649	glucagon receptor antagonist	biological role
+60788	affinity label	biological role
+60816	immunogen	biological role
+60901	EC 2.5.1.9 (riboflavin synthase) inhibitor	biological role
+61026	bile therapy drug	application
+61115	EC 3.5.1.98 (histone deacetylase) inhibitor	biological role
+61774	inositol phosphorylceramide synthase inhibitor	biological role
+61908	EC 1.14.13.39 (nitric oxide synthase) inhibitor	biological role
+61950	microtubule-stabilising agent	biological role
+61966	metabotropic glutamate receptor agonist	biological role
+62434	EC 2.7.10.1 (receptor protein-tyrosine kinase) inhibitor	biological role
+62488	signalling molecule	biological role
+62608	EC 4.2.1.3 (aconitate hydratase) inhibitor	biological role
+62609	EC 3.11.1.3 (phosphonopyruvate hydrolase) inhibitor	biological role
+62803	fuel additive	chemical role
+62868	hepatoprotective agent	application
+62887	tankyrase inhibitor	biological role
+62913	EC 2.4.2.30 (NAD+ ADP-ribosyltransferase) inhibitor	biological role
+62915	sialyltransferase inhibitor	biological role
+63047	food emulsifier	chemical role
+63054	osteogenesis regulator	biological role
+63060	phase-transfer catalyst	chemical role
+63090	EC 2.4.2.1 (purine-nucleoside phosphorylase) inhibitor	biological role
+63146	insulin release inhibitor	biological role
+63175	peptidomimetic	biological role
+63247	reducing agent	chemical role
+63248	oxidising agent	chemical role
+63457	fibroblast growth factor receptor antagonist	biological role
+63490	explosive	chemical role
+63510	EC 3.6.3.9 (Na+/K+-transporting ATPase) inhibitor	biological role
+63533	gonadotropin releasing hormone agonist	biological role
+63562	glucocorticoid receptor agonist	biological role
+63726	neuroprotective agent	application
+63908	film-forming compound	chemical role
+63936	&#945;1B-adrenoceptor antagonist	biological role
+63951	estrogen receptor agonist	biological role
+63962	Hsp90 inhibitor	biological role
+63963	metabotropic glutamate receptor antagonist	biological role
+64033	EC 3.5.1.99 (fatty acid amide hydrolase) inhibitor	biological role
+64049	food acidity regulator	application
+64102	AMPA receptor agonist	biological role
+64106	protein kinase agonist	biological role
+64133	EC 2.5.1.58 (protein farnesyltransferase) inhibitor	biological role
+64152	cysteine protease inhibitor	biological role
+64154	H3-receptor agonist	biological role
+64345	MALDI matrix material	application
+64477	monolignol	biological role
+64571	NMDA receptor agonist	biological role
+64577	flour treatment agent	application
+64763	EC 3.1.4.11 (phosphoinositide phospholipase C) inhibitor	biological role
+64909	poison	biological role
+64912	antimycobacterial drug	biological role
+64915	antiplasmodial drug	biological role
+64922	EC 3.4.21.37 (leukocyte elastase) inhibitor	biological role
+64926	serine protease inhibitor	biological role
+64946	anti-HIV agent	biological role
+64964	EC 1.13.11.34 (arachidonate 5-lipoxygenase) inhibitor	biological role
+64995	EC 1.13.11.31 (arachidonate 12-lipoxygenase) inhibitor	biological role
+65207	vascular endothelial growth factor receptor antagonist	biological role
+65254	LRH-1 agonist	biological role
+65256	antimicrobial food preservative	application
+66900	prostaglandin receptor agonist	biological role
+67072	cannabinoid receptor agonist	biological role
+67079	anti-inflammatory agent	application
+67105	insect sterilant	application
+67114	ryanodine receptor agonist	biological role
+67126	colorimetric reagent	application
+67137	NMR shift reagent	application
+67239	EC 3.2.1.20 (&#945;-glucosidase) inhibitor	biological role
+67267	EC 2.5.1.59 (protein geranylgeranyltransferase type I) inhibitor	biological role
+67268	HIV-1 integrase inhibitor	biological role
+68495	apoptosis inducer	biological role
+68509	glutathione depleting agent	biological role
+68553	guanylate cyclase 2C agonist	biological role
+68557	bradykinin receptor antagonist	biological role
+68581	EC 3.4.21.6 (coagulation factor Xa) inhibitor	biological role
+68844	phosphodiesterase IV inhibitor	biological role
+70722	EC 6.4.1.2 (acetyl-CoA carboxylase) inhibitor	biological role
+70728	actin polymerisation inhibitor	biological role
+70770	Aurora kinase inhibitor	biological role
+70774	capsaicin receptor antagonist	biological role
+70782	PPAR&#945; agonist	biological role
+70998	G-protein-coupled receptor agonist	biological role
+71212	prohormone	biological role
+71338	autoinducer	biological role
+71476	EC 2.3.1.85 (fatty acid synthase) inhibitor	biological role
+71554	PPAR&#947; agonist	biological role
+71692	insect repellent	application
+72716	EC 2.3.2.13 (protein-glutamine &#947;-glutamyltransferase) inhibitor	biological role
+72768	aryl hydrocarbon receptor agonist	biological role
+72771	breast cancer resistance protein inhibitor	biological role
+73181	EC 1.11.1.11 (L-ascorbate peroxidase) inhibitor	biological role
+73189	brassinosteroid biosynthesis inhibitor	biological role
+73191	abscisic acid receptor agonist	biological role
+73192	EC 1.3.3.4 (protoporphyrinogen oxidase) inhibitor	biological role
+73214	EC 3.6.3.14 (H+-transporting two-sector ATPase) inhibitor	biological role
+73240	NF-&#954;B inhibitor	biological role
+73319	adenosine A3 receptor agonist	biological role
+73335	ultraviolet filter	chemical role
+73668	peptide coupling reagent	application
+73966	nitric oxide synthase activator	biological role
+74136	lachrymator	biological role
+74236	polymerisation monomer	chemical role
+74352	quinol oxidation site inhibitor	biological role
+74440	epidermal growth factor receptor antagonist	biological role
+74783	astringent	application
+74886	neoglycolipid probe	application
+74914	microarray analysis reagent	application
+74925	EC 3.4.23.46 (memapsin 2) inhibitor	biological role
+74949	EC 3.1.27.3 (ribonuclease T1) inhibitor	biological role
+75050	chromogenic compound	application
+75252	insulin-like growth factor receptor 1 antagonist	biological role
+75325	cathartic	biological role
+75414	platelet-activating factor receptor agonist	biological role
+75416	EC 6.1.1.* (ligases forming aminoacyl tRNA and related compounds) inhibitor	biological role
+75429	EC 1.4.4.2 [glycine dehydrogenase (aminomethyl-transferring)] inhibitor	biological role
+75495	EC 6.1.1.11 (serine&#8212;tRNA ligase) inhibitor	biological role
+75763	eukaryotic metabolite	biological role
+75767	animal metabolite	biological role
+75768	mammalian metabolite	biological role
+75771	mouse metabolite	biological role
+75772	Saccharomyces cerevisiae metabolite	biological role
+76206	xenobiotic metabolite	biological role
+76219	fluorogen	biological role
+76395	EC 2.3.1.48 (histone acetyltransferase) inhibitor	biological role
+76413	greenhouse gas	chemical role
+76498	coral metabolite	biological role
+76507	marine metabolite	biological role
+76617	EC 2.7.10.2 (non-specific protein-tyrosine kinase) inhibitor	biological role
+76779	EC 3.4.21.26 (prolyl oligopeptidase) inhibitor	biological role
+76828	EC 5.1.1.* (racemases acting on amino acids and derivatives) inhibitor	biological role
+76902	EC 1.14.11.* (oxidoreductase acting on paired donors, 2-oxoglutarate as one donor, incorporating 1 atom each of oxygen into both donors) inhibitor	biological role
+76924	plant metabolite	biological role
+76946	fungal metabolite	biological role
+76956	Aspergillus metabolite	biological role
+76960	Chaetomium metabolite	biological role
+76964	Penicillium metabolite	biological role
+76967	human xenobiotic metabolite	biological role
+76968	fungal xenobiotic metabolite	biological role
+76969	bacterial metabolite	biological role
+76971	Escherichia coli metabolite	biological role
+76973	Streptococcus pneumoniae metabolite	biological role
+76976	bacterial xenobiotic metabolite	biological role
+76977	corticotropin-releasing factor receptor antagonist	biological role
+76988	xenoestrogen	biological role
+77034	mucolytic	application
+77035	expectorant	application
+77090	EC 4.3.1.10 (serine-sulfate ammonia-lyase) inhibitor	biological role
+77108	EC 1.1.1.141 [15-hydroxyprostaglandin dehydrogenase (NAD+)] inhibitor	biological role
+77111	EC 2.1.1.116 [3'-hydroxy-N-methyl-(S)-coclaurine 4'-O-methyltransferase] inhibitor	biological role
+77178	histological dye	application
+77182	food colouring	application
+77318	pregnane X receptor agonist	biological role
+77496	bradykinin receptor B2 agonist	biological role
+77523	Maillard reaction product	chemical role
+77608	loop diuretic	application
+77746	human metabolite	biological role
+77748	EC 3.6.3.44 (xenobiotic-transporting ATPase) inhibitor	biological role
+77763	EC 1.2.1.88 (L-glutamate &#947;-semialdehyde dehydrogenase) inhibitor	biological role
+77853	persistent organic pollutant	chemical role
+77881	EC 4.3.1.15 (diaminopropionate ammonia-lyase) inhibitor	biological role
+77884	EC 1.14.13.70 (sterol 14&#945;-demethylase) inhibitor	biological role
+77962	food antioxidant	chemical role
+77974	food packaging gas	application
+78017	food propellant	application
+78031	Wnt signalling inhibitor	biological role
+78295	food component	biological role
+78298	environmental contaminant	chemical role
+78361	lichen metabolite	biological role
+78433	refrigerant	application
+78444	EC 3.1.1.1 (carboxylesterase) inhibitor	biological role
+78606	Hsp70 inducer	biological role
+78675	fundamental metabolite	biological role
+78678	EC 4.6.1.2 (guanylate cyclase) inhibitor	biological role
+78728	EC 1.3.1.72 (&#916;24-sterol reductase) inhibitor	biological role
+78756	EC 2.5.1.6 (methionine adenosyltransferase) inhibitor	biological role
+78760	EC 2.7.1.91 (sphingosine kinase) inhibitor	biological role
+78763	EC 2.7.11.18 (myosin-light-chain kinase) inhibitor	biological role
+78804	Caenorhabditis elegans metabolite	biological role
+78947	archaeal metabolite	biological role
+79046	melatonin receptor agonist	biological role
+79056	plasticiser	application
+79085	potassium channel opener	biological role
+79088	EC 3.4.24.35 (gelatinase B) inhibitor	biological role
+79091	EC 2.7.11.24 (mitogen-activated protein kinase) inhibitor	biological role
+82632	phytochrome chromophore	chemical role
+82655	animal growth promotant	application
+82665	EC 2.7.11.22 (cyclin-dependent kinase) inhibitor	biological role
+82756	EC 6.1.1.12 (aspartate&#8212;tRNA ligase) inhibitor	biological role
+83034	EC 4.1.2.27 (sphinganine-1-phosphate aldolase) inhibitor	biological role
+83038	Daphnia galeata metabolite	biological role
+83039	crustacean metabolite	biological role
+83056	Daphnia magna metabolite	biological role
+83075	Daphnia pulex metabolite	biological role
+83146	Daphnia tenebrosa metabolite	biological role
+83399	marine xenobiotic metabolite	biological role
+83612	hepatic steatosis inducing agent	biological role
+84036	EC 3.4.24.24 (gelatinase A) inhibitor	biological role
+84087	human urinary metabolite	biological role
+84735	algal metabolite	biological role
+85094	EC 2.7.11.11 (cAMP-dependent protein kinase) inhibitor	biological role
+85113	EC 2.7.11.12 (cGMP-dependent protein kinase) inhibitor	biological role
+85234	human blood serum metabolite	biological role
+86010	EC 1.4.1.3 {glutamate dehydrogenase [NAD(P)+]} inhibitor	biological role
+86029	liver X receptor agonist	biological role
+86264	rat metabolite	biological role
+86327	antifungal drug	biological role
+86328	antifungal agrochemical	application
+86385	EC 5.3.3.5 (cholestenol &#916;-isomerase) inhibitor	biological role
+87183	STAT3 inhibitor	biological role
+87588	Smad3 inhibitor	biological role
+87786	signal transducer and activator of transcription 5 protein inhibitor	biological role
+88048	cyanotoxin	biological role
+88188	drug allergen	biological role
+88285	EC 2.7.12.* [dual-specificity kinases (those acting on Ser/Thr and Tyr residues)] inhibitor	biological role
+90172	c-Jun N-terminal kinase inhibitor	biological role
+90365	EC 4.6.1.1 (adenylate cyclase) inhibitor	biological role
+90374	histone acetyltransferase activator	biological role
+90375	Sir1 inhibitor	biological role
+90691	EC 5.3.1.1 (triose-phosphate isomerase) inhibitor	biological role
+90713	retinoic acid receptor &#945; antagonist	biological role
+90714	retinoic acid receptor antagonist	biological role
+90753	antidote to organophosphate poisoning	application
+90780	AKT1 kinase inhibitor	biological role
+91016	GABAA receptor agonist	biological role
+91081	purinergic receptor P2X antagonist	biological role
+91092	EC 2.7.11.26 (tau-protein kinase) inhibitor	biological role
+91141	EC 1.1.5.3 (glycerol-3-phosphate dehydrogenase) inhibitor	biological role
+91189	VEGF activator	biological role
+91202	TGF&#946; receptor antagonist	biological role
+131495	formyl peptide receptor agonist	biological role
+131604	Mycoplasma genitalium metabolite	biological role
+131611	teichoic acid biosynthesis inhibitor	biological role
+131699	EC 2.7.7.7 (DNA-directed DNA polymerase) inhibitor	biological role
+131770	EC 3.6.3.49 (channel-conductance-controlling ATPase) inhibitor	biological role
+131790	melatonin receptor antagonist	biological role
+131794	EC 2.7.11.17 (Ca2+/calmodulin-dependent protein kinase) inhibitor	biological role
+131809	SMO receptor agonist	biological role
+131961	EC 1.13.11.11 (tryptophan 2,3-dioxygenase) inhibitor	biological role
+132272	herbicide safener	application
+132608	TRPM4 channel inhibitor	biological role
+132717	bleaching agent	application
+132772	EC 3.6.5.5 (dynamin GTPase) inhibitor	biological role
+133106	chemical hybridisation agent	biological role
+133190	fatty acid oxidation inhibitor	biological role
+134083	hypoxia-inducible factor pathway activator	biological role
+136580	LRH-1 antagonist	biological role
+136646	proherbicide	application
+136984	EC 4.4.1.14 (1-aminocyclopropane-1-carboxylate synthase) inhibitor	biological role
+137514	TRPA1 channel agonist	biological role
+137566	EC 2.5.1.48 (cystathionine &#947;-synthase) inhibitor	biological role
+137684	Papio hamadryas metabolite	biological role
+138090	ATPase motor cytoplasmic dynein inhibitor	biological role
+138103	inorganic acid	chemical role
+138416	angiotensin receptor agonist	biological role
+138880	autophagy inducer	biological role
+138887	prostaglandin receptor antagonist	biological role
+138938	EC 4.1.1.39 (ribulose-bisphosphate carboxylase) inhibitor	biological role
+138977	quorum sensing inhibitor	biological role
+139074	LIM kinase inhibitor	biological role
+139109	IP3 receptor agonist	biological role
+139155	melanin-concentrating hormone receptor antagonist	biological role
+139180	nicotinic acid adenine dinucleotide phosphate receptor antagonist	biological role
+139246	peptide probe	application
+139339	EC 1.14.17.1 (dopamine &#946;-monooxygenase) inhibitor	biological role
+139361	TRP channel blocker	biological role
+139492	sensitiser	biological role
+139503	vitamin D receptor agonist	biological role
+139566	Jacobaea metabolite	biological role
+139584	lysophosphatidic acid receptor 3 agonist	biological role
+140061	TRPV4 agonist	biological role
+140160	Camellia sinensis metabolite	biological role
+140165	Brassica napus metabolite	biological role
+140535	TRPV1 agonist	biological role
+140602	Arabidopsis thaliana metabolite	biological role
+140701	secreted frizzled-related protein 1 inhibitor	biological role
+140982	neuropeptide FF receptor antagonist	biological role
+142790	EC 3.3.2.10 (soluble epoxide hydrolase) inhibitor	biological role
+143231	carbohydrate allergen	biological role
+143252	ceramide allergen	biological role
+144064	EC 1.14.15.6 cholesterol monooxygenase (side-chain-cleaving) inhibitor	biological role
+144829	tumour antigen	biological role
+144997	sphingosine-1-phosphate receptor 3 antagonist	biological role
+145047	antispermatogenic agent	application
+145814	EC 1.2.1.12 (aspartate-semialdehyde dehydrogenase) inhibitor	biological role
+145982	5-hydroxytryptamine 2A receptor agonist	biological role
+146270	oneirogen	application
+148436	nitrification inhibitor	biological role
+149497	spin trapping reagent	application
+149553	anticoronaviral agent	biological role
+150006	SERCA activator	biological role
+156211	MAIT cell agonist	biological role
+166831	copper chelator	chemical role
+170010	EC 2.7.7.48 (RNA-directed RNA polymerase) inhibitor	biological role
+173084	ferroptosis inhibitor	biological role
+173085	ferroptosis inducer	biological role
+176497	geroprotector	application
+177023	somatostatin receptor agonist	biological role
