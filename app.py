@@ -5,10 +5,6 @@ import chemparse
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 
 
-# if __name__ == '__main__':
-
-#     from final_rt_model_pipe import grab_numeric_rt
-#     main()
 
 f_rt = open('./notebooks/final_rt_model_pipe','rb')
 role_type_model = pickle.load(f_rt)
