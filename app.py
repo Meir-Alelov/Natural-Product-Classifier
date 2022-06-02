@@ -24,7 +24,7 @@ f_app_type.close()
 
 st.title('Natural Product Classifier')
 st.write('## This app takes in a newly discovered naturally occuring compound')
-st.write('#### It then predicts the type of role it has in a drug pipeline ')
+st.write('#### It then predicts the type of role it has in a drug pipeline, as well as the name of that role ')
 
 
 MolecularFormula = st.text_input('Molecular Formula')

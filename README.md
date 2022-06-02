@@ -22,6 +22,16 @@ this is why my classification specifically helps
 ONTOLOGY
 IDENTIFIES MODE OF ACTION FOR COMPOUND 
 
+ontology of applicatoin:
+
+Any substance introduced into a living organism with therapeutic or diagnostic purpose.
+
+ontology of chemical 
+
+A role played by the molecular entity or part thereof within a chemical context.
+
+ontology of biological
+
 first preclinical step of drug discovery pipeline is identifying target. 
 that is, this is where it all begins. 
 
