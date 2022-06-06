@@ -133,17 +133,17 @@ You can find these instructions in the notebook titled 'data_compilation'. You d
 
 
 ```
-├── README.md					        <- The top-level README for reviewers of this project
+├── README.md					                   <- The top-level README for reviewers of this project
 ├── final_notebook.ipynb	            <- Narrative documentation of analysis in Jupyter notebook
 ├── data_compiling.ipynb	            <- Narrative documentation of data compilation in Jupyter notebook
-├── notebooks					        <- versions of working notebooks
-│   ├── all_in_one_notebook.ipynb		<- jupyter notebook containing all the code
+├── notebooks					                   <- versions of working notebooks
+│   ├── all_in_one_notebook.ipynb	  	<- jupyter notebook containing all the code
 │   ├── visualizations.ipynb	        <- jupyter notebook with image generation from code
 │   └── saved models and data files		
-├── Presentation.pdf			        <- PDF version of project presentation
-├── app	                                <- Contains app script and demo
+├── Presentation.pdf			              <- PDF version of project presentation
+├── app	                             <- Contains app script and demo
 ├── env                 	            <- Contains environment.yml file and env recreation instructions
-├── data                                <- Contains saved models and dataset files in the form of .tsv
-└── images                              <- Both sourced externally and generated from code
+├── data                             <- Contains saved models and dataset files in the form of .tsv
+└── images                           <- Both sourced externally and generated from code
 
 ```
