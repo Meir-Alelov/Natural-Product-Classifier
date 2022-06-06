@@ -31,7 +31,7 @@ ChEBI is a chemical database and ontology of molecular entities focused on 'smal
 
 PubChem is an open chemistry database at the National Institutes of Health (NIH). PubChem mostly contains small molecules, but also larger molecules such as nucleotides, carbohydrates, lipids, peptides, and chemically-modified macromolecules. We collect information on chemical structures, identifiers, chemical and physical properties, biological activities, patents, health, safety, toxicity data, and many others.
 
-The following flowchart is taken from ChEBI Ontology Annotatoin Manual
+The following flowchart is taken from ChEBI Ontology Annotation Manual
 ![natural product image](images/chebi_ontology.png)
 
 ### Data Justifications
