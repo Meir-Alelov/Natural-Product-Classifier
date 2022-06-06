@@ -35,7 +35,7 @@ The following flowchart is taken from ChEBI Ontology Annotation Manual
 ![natural product image](images/chebi_ontology.png)
 
 ### Data Justifications
-I only used chemical compounds with 1 role for training, as my goal is to give a clearer picture of the incoming unknown compounds, as opposed to a combination of potential roles. I want one clear direction to go in, as this will speed up drug discovery processes. 
+I chose to use chemical compounds with only 1 role for training, as my goal is to give a clearer picture of the incoming unknown compounds, as opposed to a combination of potential roles. I want one clear direction to go in, as this will speed up drug discovery processes. 
 
 After constructing the final data frame I was left with over 10,000 different compounds, each of which containing 18 features. 
 
